@@ -78,7 +78,7 @@ Internal hardware architecture, circuit diagrams, PCB designs, firmware source c
 Firmware Engineer | Embedded Systems | Industrial Automation
 
 - LinkedIn: [Mangesh Tarate](https://www.linkedin.com/in/mangesh-tarate-46170a1b8)
-- GitHub: [GitHub Profile](https://github.com/mangeshtarate013)
+- GitHub: [GitHub Profile](https://github.com/mangesh-tarate)
 - Email: mangesh.tarate014@gmail.com
 
 ---
